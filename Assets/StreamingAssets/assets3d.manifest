@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4234046262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e907337ce5604588880370d35d97ad89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 76fad9a0f0e443664c51bf4a919a5ed8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2108af086fba12246a2ca3382679a215, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1f00b98f7ab3c24e85a166ef24c8839, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundledAssets/assets3d/capsulepref.prefab
+- Assets/BundledAssets/assets3d/cubepref.prefab
+- Assets/BundledAssets/assets3d/spherepref.prefab
+Dependencies: []
